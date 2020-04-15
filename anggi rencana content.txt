@@ -1,9 +1,11 @@
 RENCANA KONTEN ANGGI
 - GAME
  * MOBEL LEJEN
+  * tutorial
  * PUBG
-  *Main biasa
+  *live streaming
 - PHP FRAMEWORK
   * laravel
 - DATABASE
 - JAVASCRIPT
+ *belajar React
