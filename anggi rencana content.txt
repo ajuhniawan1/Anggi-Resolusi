@@ -5,6 +5,7 @@ RENCANA KONTEN ANGGI
  * PUBG
   *live streaming
 - PHP FRAMEWORK
+  * laravel
 - DATABASE
 - JAVASCRIPT
  *belajar React
